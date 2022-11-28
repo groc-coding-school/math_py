@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: math-py
+Version: 0.1.0
+Summary: A simple math calculator package
+Home-page: https://groc-coders.blogspot.com
+Author: Christopher Amadra Titus
+Author-email: groc.coders.schools@gmail.com
+License: Apache License 2.0
+Download-URL: https://groc-coders.blogspot.com/downloads.html
+Platform: UNKNOWN
+Classifier: Programming Language:: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: license.txt
+
+README.md
+

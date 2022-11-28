@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+license.txt
+pyproject.toml
+setup.cfg
+setup.py
+math_py/__init__.py
+math_py/math_py.py
+math_py.egg-info/PKG-INFO
+math_py.egg-info/SOURCES.txt
+math_py.egg-info/dependency_links.txt
+math_py.egg-info/not-zip-safe
+math_py.egg-info/top_level.txt
