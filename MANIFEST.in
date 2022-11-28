@@ -1,0 +1,3 @@
+include math_py/*.png
+include math_py/*.jpg
+include math_py/*.ttf
